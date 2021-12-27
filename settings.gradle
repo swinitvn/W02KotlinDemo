@@ -1,0 +1,2 @@
+rootProject.name = "W02KotlinDemo"
+include ':app'
